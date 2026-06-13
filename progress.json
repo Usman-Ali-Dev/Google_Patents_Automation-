@@ -1,0 +1,45 @@
+{
+  "page_num": 0,
+  "article_index": 7,
+  "completed": false,
+  "downloads": [
+    {
+      "url": "https://patents.google.com/patent/US20230272079A1/en",
+      "filename": "US20230272079A1.pdf",
+      "time": "2026-06-11T17:01:47.260919"
+    },
+    {
+      "url": "https://patents.google.com/patent/US11762912B2/en",
+      "filename": "US11762912.pdf",
+      "time": "2026-06-11T17:02:07.786249"
+    },
+    {
+      "url": "https://patents.google.com/patent/US20230061544A1/en",
+      "filename": "US20230061544A1.pdf",
+      "time": "2026-06-11T17:02:35.514035"
+    },
+    {
+      "url": "https://patents.google.com/patent/US11849947B2/en",
+      "filename": null,
+      "time": "2026-06-11T17:02:41.445869",
+      "error": "Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://patents.google.com/patent/US11849947B2/en\", waiting until \"load\"\n"
+    },
+    {
+      "url": "https://patents.google.com/patent/US11918208B2/en",
+      "filename": null,
+      "time": "2026-06-11T17:23:54.230824",
+      "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://patents.google.com/patent/US11918208B2/en\", waiting until \"load\"\n"
+    },
+    {
+      "url": "https://patents.google.com/patent/US11612394B2/en",
+      "filename": null,
+      "time": "2026-06-11T17:25:27.930419",
+      "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://patents.google.com/patent/US11612394B2/en\", waiting until \"load\"\n"
+    },
+    {
+      "url": "https://patents.google.com/patent/US12115357B2/en",
+      "filename": "US12115357.pdf",
+      "time": "2026-06-11T17:26:03.903261"
+    }
+  ]
+}
